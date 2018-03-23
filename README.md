@@ -1,6 +1,8 @@
 # JMFarkle
 javascript Farkle game
-By: John Muraski
+
+By: John "Varrus" Muraski
+
 john.t.muraski@gmail.com
 
 This game is created in order to refine, practice and showcase my knolwedge and skills in HTML,CSS and Javascript
